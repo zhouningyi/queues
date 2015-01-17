@@ -1,0 +1,17 @@
+{
+  "name": "queues",
+  "description": "消息队列",
+  "main": "./index",
+  "author": {
+    "name": "zhouningyi yijingping"
+  },
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/caolan/async.git"
+  },
+  "dependencies": {
+    "async": "0.9.0",
+    "fivebeans": "1.1.1"
+  }
+}
